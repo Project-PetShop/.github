@@ -1,6 +1,7 @@
 # ViraLuxo
-
 ---
+Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
+
 ## Descrição do Projeto:
 
 > Após ouvir a demanda de alguns petshops, sobre o problema de agendamento de serviços para os bichinhos e a dificuldade na venda de produtos por ser apenas local, perante a isso a plataforma ViraLuxo foi criada com o proposito de oferecer tanto serviços quanto produtos para atender às necessidades dos animais de estimação e de seus donos de qualquer. Permitindo que os clientes agendem serviços essenciais, como banhos, tosas e consultas veterinárias diretamente pelo site, escolhendo o melhor horário disponível e adquiram produtos de forma rápida e segura
@@ -23,7 +24,7 @@ Professor: [Marco André Mendes](github.com/marcoandre)
 
 ## Situação Problema
 
-A empresa Clinica veterinária iririu, possui tanto clinica e hospital, quanto um petshop e está no mercado a mais de 8 anos, não possuo informações sobre quem trabalha lá.
+A empresa Clinica veterinária iririu, possui tanto clinica e petshop e está no mercado a mais de 8 anos.
 Modo de funcionamento deles é simples, cliente pode ligar ou dar entrada direto na unidade.
 Chegando no estabelecimento o cliente escolhe se irá comprar algo, ou pedir/agendar  um serviço ( tosa, banho, vacina, consulta ).
 Caso o cliente deseje comprar algo, ele escolhe nas prateleiras os itens desejados e passa no caixa para efetuar o pagamento.
@@ -41,7 +42,7 @@ Com o nosso software, o cliente poderá acessar da onde estiver e no horário na
 ## Descrição da proposta
 
 Foco em agendamento de banhos, tosas, consultas, além de efetuar vendas de produtos.
-São 2 niveis, o admin (que poderá ser funcionário ou próprio dono ) e o usuário/cliente
+São 2 niveis, o admin (que poderá ser funcionário ou próprio dono ) e o usuário/cliente.
 O cliente poderá agendar consultas, banho, tosa para os bichinhos e ver os seus valores mediante ao porte do pet, e o também poderá comprar e comparar os preços dos itens, podendo escolher o mais acessível.
 
 ---

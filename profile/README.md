@@ -16,9 +16,9 @@ Professor: [Marco André Mendes](github.com/marcoandre)
 
 ## Links do projeto:
 
--   Documentação: [Documentação_ViraLuxo](github.com/Project-PetShop/Documentacao_ViraLuxo)
--   Backend: [BackEnd_ViraLuxo](github.com/Project-PetShop/BackEnd_ViraLuxo)
--   Frontend: [FrondEnd_ViraLuxo](github.com/Project-PetShop/FrondEnd_ViraLuxo)
+-   Documentação: [Documentação_ViraLuxo](https://github.com/Project-PetShop/Documentacao_ViraLuxo)
+-   Backend: [BackEnd_ViraLuxo](https://github.com/Project-PetShop/BackEnd_ViraLuxo)
+-   Frontend: [FrondEnd_ViraLuxo](https://github.com/Project-PetShop/FrondEnd_ViraLuxo)
 
 ---
 

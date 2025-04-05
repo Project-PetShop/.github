@@ -8,11 +8,11 @@ Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em D
 
 ---
 
-Professor: [Marco André Mendes](github.com/marcoandre)
+Professor: [Marco André Mendes](https://github.com/marcoandre)
 
 ## Equipe:
-- [Manuela Luchtenberg Silva](github.com/ManuelaLuchSilva)
-- [Yohana Jahn](github.com/YohanaJahn)
+- [Manuela Luchtenberg Silva](https://github.com/ManuelaLuchSilva)
+- [Yohana Jahn](https://github.com/YohanaJahn)
 
 ## Links do projeto:
 

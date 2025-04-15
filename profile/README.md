@@ -4,7 +4,8 @@ Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em D
 
 ## Descrição do Projeto:
 
-> Após ouvir a demanda de alguns petshops, sobre o problema de agendamento de serviços para os bichinhos e a dificuldade na venda de produtos por ser apenas local, perante a isso a plataforma ViraLuxo foi criada com o proposito de oferecer tanto serviços quanto produtos para atender às necessidades dos animais de estimação e de seus donos de qualquer. Permitindo que os clientes agendem serviços essenciais, como banhos, tosas e consultas veterinárias diretamente pelo site, escolhendo o melhor horário disponível e adquiram produtos de forma rápida e segura
+> Após identificar a demanda de diversos estabelecimentos do ramo pet, especialmente em relação às dificuldades no agendamento de serviços e à limitação na comercialização de produtos apenas em âmbito local, foi desenvolvida a plataforma ViraLuxo. Seu propósito é oferecer, de forma integrada, serviços e produtos voltados ao bem-estar dos animais, atendendo às necessidades tanto dos pets quanto de seus tutores, independentemente da localização.
+> A ViraLuxo permite que os clientes agendem, diretamente pelo site, serviços essenciais como banho, tosa e consultas veterinárias, escolhendo o melhor horário disponível. Além disso, oferece uma experiência de compra prática, segura e eficiente, facilitando a aquisição de produtos de qualidade para os animais de estimação.
 
 ---
 
@@ -24,25 +25,45 @@ Professor: [Marco André Mendes](https://github.com/marcoandre)
 
 ## Situação Problema
 
-A empresa Clinica veterinária iririu, possui tanto clinica e petshop e está no mercado a mais de 8 anos.
-Modo de funcionamento deles é simples, cliente pode ligar ou dar entrada direto na unidade.
-Chegando no estabelecimento o cliente escolhe se irá comprar algo, ou pedir/agendar  um serviço ( tosa, banho, vacina, consulta ).
-Caso o cliente deseje comprar algo, ele escolhe nas prateleiras os itens desejados e passa no caixa para efetuar o pagamento.
-Caso ele escolha o serviço, ele fará o orçamento com a atendente e agendará o serviço caso não possua horaria naquele momento. Se tiver horário, ele deixara o seu bichinho e no fim efetuará o pagamento.
-Caso não possua horário, ele irá agendar, e no horário marcado trará o bichinho e no final efetuara o pagamento.
+A empresa Clínica Veterinária Iririu atua no mercado há mais de 8 anos, oferecendo tanto serviços clínicos quanto um pet shop completo. Seu modo de funcionamento é simples: o cliente pode entrar em contato por telefone ou comparecer diretamente à unidade.
 
-Diante ao caso apresentado, notasse os seguintes problemas:
-Nem todas as pessoas tem tempo ou podem se locomover ate o estabelecimento, ou não tem tempo de ligar dentro do horário comercial para resolver o seu problema.
-Os preços tantos dos serviços, quanto dos produtos é algo muito mais burocrático para a pessoa saber, tendo que ou ir até a loja ou ligar, sendo que se for até a loja e não caber no orçamento da pessoa, ela acabe perdendo viajem.
+🛠️ Funcionamento Atual
 
-Com o nosso software, o cliente poderá acessar da onde estiver e no horário na qual for melhor para ele, e já terá tudo na palma da sua mão, valores, horários, quais produtos e serviços são oferecidos. Assim ajudando a loja com um cronograma de agendamentos muito mais prático, o cliente que por fazer tudo com facilidade, fica mais satisfeito. 
+Ao chegar ao local, o cliente pode:
+
+- **Adquirir produtos**:
+  - Seleciona os itens diretamente nas prateleiras.
+  - Efetua o pagamento no caixa.
+
+- **Solicitar ou agendar serviços**:
+  - Serviços como **banho, tosa, vacinação ou consulta**.
+  - Realiza um orçamento com a atendente.
+  - Se houver horário disponível, o cliente deixa o pet e paga ao final.
+  - Caso não haja horário, é feito o agendamento e o pagamento ocorre posteriormente.
+
+---
+⚠️ Problemas Identificados
+
+Apesar da simplicidade no processo atual, foram identificados os seguintes desafios:
+
+- Nem todos os clientes têm tempo ou meios de se deslocar até a loja.
+- Muitos não conseguem entrar em contato durante o horário comercial.
+- Os **preços de produtos e serviços** não estão acessíveis online.
+- O cliente pode perder a viagem caso os valores não estejam dentro do seu orçamento.
+
+---
+💡 Solução Proposta
+
+Com a nossa solução digital, o cliente poderá acessar todas essas informações de onde estiver e no horário que for mais conveniente. Terá à disposição, de forma prática e centralizada, os preços, horários disponíveis, serviços e produtos oferecidos. Isso torna o processo mais eficiente tanto para o estabelecimento, que passa a ter um cronograma de agendamentos mais organizado, quanto para o cliente, que ganha autonomia, agilidade e uma experiência mais satisfatória.
 
 ---
 
 ## Descrição da proposta
 
-Foco em agendamento de banhos, tosas, consultas, além de efetuar vendas de produtos.
-São 2 niveis, o admin (que poderá ser funcionário ou próprio dono ) e o usuário/cliente.
-O cliente poderá agendar consultas, banho, tosa para os bichinhos e ver os seus valores mediante ao porte do pet, e o também poderá comprar e comparar os preços dos itens, podendo escolher o mais acessível.
+1. O foco principal está no agendamento de serviços como banhos, tosas e consultas, além da comercialização de produtos para pets.
+
+2. A plataforma contará com dois níveis de acesso: o administrador (que poderá ser um funcionário ou o próprio proprietário) e o usuário/cliente.
+
+3. O cliente poderá agendar serviços como consulta, banho e tosa para seu animal de estimação, visualizando os valores de acordo com o porte do pet. Além disso, poderá comparar preços dos produtos disponíveis e escolher as opções mais acessíveis para sua necessidade.
 
 ---
